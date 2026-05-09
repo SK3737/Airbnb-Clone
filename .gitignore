@@ -1,0 +1,4 @@
+.env
+Atlas.txt
+node_modules/
+.prettierrc
